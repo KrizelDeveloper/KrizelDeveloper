@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Krizel!
 
-I'm an aspiring application developer with a strong interest in user-focused software, game development, and clear communication. I believe technology should be accessible, understandable, and empowering — and I bring that philosophy into everything I create.
+I'm an aspiring game developer with a strong interest in user-focused software, game development, and clear communication. I believe technology should be accessible, understandable, and empowering — and I bring that philosophy into everything I create.
 
 ---
 
