@@ -1,41 +1,39 @@
-# 👋 Hi there, I'm Krizel!
+# Hi, I'm Krizel
 
-I'm an aspiring game developer with a strong interest in user-focused software, game development, and clear communication. I believe technology should be accessible, understandable, and empowering — and I bring that philosophy into everything I create.
-
----
-
-## 🚀 What I'm Working On
-- 🌱 Currently learning **C++** (Codecademy) and **SQL** (Boot.dev)
-- 💻 Exploring front-end foundations via **HTML, CSS, and JavaScript** (freeCodeCamp)
-- 🧠 Building habit tracking systems using **Notion** and **Trello** to support my growth
+Software developer who focuses on creating products that is both empowering and accessible. Dabbles into video game development as well as many interests in topics such as IT (information technology), UX (user expereince) design, and understanding details of business/entrepreneurship.
 
 ---
 
-## 🛠️ Tech I'm Learning
-- **Languages**: Python, C++, Java, JavaScript, SQL  
-- **Tools**: VS Code, Trello, Notion, Git (coming soon!)  
-- **Game Dev**: Unreal Engine 5, Twine
+## What I'm Working On
+- Currently building a habit tracker as my first shippable product
+- Side project of a video game that is similar to Lemonade Tycoon
 
 ---
 
-## ✍️ Writing & Reflection
-- I write personal reflection pieces on games and user experience
-- Advocate for accessible and inclusive design in both games and tools
-- Currently learning how to write documentation and SOPs more effectively
+## Tech
+- **Languages**: JavaScript, SQL (MySQL), Node.js, Express 
+- **Game Dev**: Godot 4
+- **Other Tools**: ChatGPT, AI prompting
 
 ---
 
-## 📌 Fun Facts
-- I try to volunteer for anything video game or geek culture related  
+## Hobbies and Current Interests
+- Playing video games
+- Learning via Coursera, Udemy, and YouTube
+- Reading business books and LGBT+ romances
+
+---
+
+## Fun Facts
+- I obtained a Bachelor of Arts in English/Lingusitics in 2019
 - I'm passionate about using games as a way to help people experience things they otherwise couldn’t  
 - I live in a small island called Guam that is part of the United States
 
 ---
 
-## 📫 Get in Touch
-- 📧 krizeldeveloper@gmail.com 
-- 🖥️ [GitHub Portfolio Repos](https://github.com/KrizelDeveloper)  
+## Get in Touch 
+- [GitHub Portfolio Repos](https://github.com/KrizelDeveloper)  
 
 <!--
-**KrizelDeveloper/KrizelDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KrizelDeveloper/KrizelDeveloper** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 -->
